@@ -42,7 +42,9 @@ Open-source dataset compiled from public space agency reports (ISRO, NASA, CNSA,
 
 ✨ This dashboard transforms raw space data into meaningful insights. It reflects how data visualization can simplify even the vast world of space exploration.
 
-6. Screenshots / Demos
-   Show what the dashboard looks like.
-   example:
+6. Screenshots / Demos:
+
+Show what the dashboard looks like.
+
+example:
    
