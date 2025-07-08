@@ -46,5 +46,5 @@ Open-source dataset compiled from public space agency reports (ISRO, NASA, CNSA,
 
 Show what the dashboard looks like.
 
-example:
+Example: (https://github.com/michealstern/Mission-Moon-Dashboard/blob/main/Dashboard.jpg)
    
