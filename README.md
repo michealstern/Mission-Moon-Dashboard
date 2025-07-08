@@ -1,16 +1,16 @@
 # Mission-Moon-Dashboard
 
-🚀 1. Project / Headline:
+1. Project / Headline:
 
 Moon Mission Analysis Dashboard | Built with Power BI
 
 A data-driven visual story showcasing the journey of lunar missions from 1958 to 2023.
 
-📌 2. Short Description / Purpose:
+2. Short Description / Purpose:
 
 The purpose of this dashboard is to analyze and visualize global moon missions—highlighting successes, failures, and country-wise contributions. This helps to uncover trends and learnings in the field of space exploration using interactive visuals and filters.
 
-🛠️ 3. Tech Stack:
+3. Tech Stack:
 
 Power BI
 
@@ -22,11 +22,11 @@ Data Modeling
 
 Custom Visuals & Themes
 
-📊 4. Data Source:
+4. Data Source:
 
 Open-source dataset compiled from public space agency reports (ISRO, NASA, CNSA, etc.) and verified Wikipedia sources. Data was cleaned and modeled within Power BI.
 
-🌟 5. Features / Highlights:
+5. Features / Highlights:
 
 📌 Total Missions: 158 | Successful: 78 | Failed: 65
 
@@ -41,3 +41,8 @@ Open-source dataset compiled from public space agency reports (ISRO, NASA, CNSA,
 🎯 Clear summary cards: Total Rockets, Failed Missions, Successful Outcomes
 
 ✨ This dashboard transforms raw space data into meaningful insights. It reflects how data visualization can simplify even the vast world of space exploration.
+
+6. Screenshots / Demos
+   Show what the dashboard looks like.
+   example:
+   
